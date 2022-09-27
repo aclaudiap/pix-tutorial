@@ -7,9 +7,7 @@
 
 # O que é o PIX?
 
-O **PIX** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas em poucos segundos, a qualquer hora ou dia. É prático, rápido e seguro. 
-
-O Pix pode ser realizado a partir de uma conta corrente ou conta poupança.
+O **PIX** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas (Corrente ou Poupança)em poucos segundos, a qualquer hora ou dia.  
 
 Além de aumentar a velocidade em que pagamentos ou transferências são feitos e recebidos, o PIX tem o potencial de:
 
@@ -24,7 +22,9 @@ Além de aumentar a velocidade em que pagamentos ou transferências são feitos 
 
 # Vantagens de utilizar o PIX
 
-| **VANTAGENS** | **PIX** | **DÉBITO** | **BOLETO** | **TED** | **DOC** |
+O **PIX** é prático, rápido e seguro. Confira abaixo uma tabela com as diferenças entre o PIX e outras formas de envio de recursos.
+
+| **VANTAGENS** :+1: | **PIX** | **DÉBITO** | **BOLETO** | **TED** | **DOC** |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Tempo para receber**  | Dinheiro na conta em até 10 segundos | Em média 2 dias uteis após pagamento | Disponível no dia útil seguinte ao pagamento | Cai no mesmo dia, se feito até as 17h | Cai no dia seguinte, se feito dentro do horário |
 | **Disponibilidade**  | Qualquer dia e horário |  Qualquer dia e horário | Dias úteis | Dias úteis. Entre 6h e 17h. | Dias úteis. Entre 6h e 17h. |

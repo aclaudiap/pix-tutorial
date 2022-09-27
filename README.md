@@ -7,11 +7,11 @@
 
 # O que é o PIX?
 
-O **Pix** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas em poucos segundos, a qualquer hora ou dia. É prático, rápido e seguro. 
+O **PIX** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas em poucos segundos, a qualquer hora ou dia. É prático, rápido e seguro. 
 
-O Pix pode ser realizado a partir de uma conta corrente, conta poupança ou conta de pagamento pré-paga.
+O Pix pode ser realizado a partir de uma conta corrente ou conta poupança.
 
-Além de aumentar a velocidade em que pagamentos ou transferências são feitos e recebidos, o Pix tem o potencial de:
+Além de aumentar a velocidade em que pagamentos ou transferências são feitos e recebidos, o PIX tem o potencial de:
 
 * Alavancar a competitividade e a eficiência do mercado;
 * Baixar o custo, aumentar a segurança e aprimorar a experiência dos clientes;
@@ -32,13 +32,13 @@ Além de aumentar a velocidade em que pagamentos ou transferências são feitos 
 
 # Configurando a chave PIX
 
-Para configurar a chave Pix no aplicatvo do banco AC Bank, realize o seguinte procedimento:
+Para configurar a chave PIX no aplicatvo do banco AC Bank, realize o seguinte procedimento:
 
 1. Clique em **Minha conta**;
-2. Em seguida, clique em **Minhas chaves Pix**;
+2. Em seguida, clique em **Minhas chaves PIX**;
 3. Será apresentada uma tela , clique em **Cadastre sua chave**.
 4. Selecione um tipo de conta: Conta Corrente ou Conta Poupança.
-5. Será possível cadastrar como chave Pix:
+5. Será possível cadastrar como chave PIX:
 * CPF;
 * Número de celular;
 * E-mail;

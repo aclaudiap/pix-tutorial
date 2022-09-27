@@ -1,8 +1,9 @@
 # Central de ajuda AC Bank
 
-* [O que é o PIX?](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#configurando-a-chave-pix)
-* [Vantagens de utilizar o PIX]()
-* [Configurando a chave PIX](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#configurando-a-chave-pix)
+Neste artigo, você encontrará informações sobre:
+* O que é o PIX?;
+* Vantagens de utilizar o PIX; e
+* Como configurar a chave PIX.
 
 
 # O que é o PIX?
@@ -30,22 +31,21 @@ O **PIX** é prático, rápido e seguro. Confira abaixo uma tabela com as difere
 | **Disponibilidade**  | Qualquer dia e horário |  Qualquer dia e horário | Dias úteis | Dias úteis. Entre 6h e 17h. | Dias úteis. Entre 6h e 17h. |
 
 
-# Configurando a chave PIX
+# Como configurar a chave PIX
 
 Para configurar a chave PIX no aplicatvo do banco AC Bank, realize o seguinte procedimento:
 
 1. Clique em **Minha conta**;
-2. Em seguida, clique em **Minhas chaves PIX**;
-3. Será apresentada uma tela, clique em **Cadastre sua chave**.
-4. Selecione um tipo de conta: Conta Corrente ou Conta Poupança.
-5. Será possível cadastrar como chave PIX:
+2. Em seguida, clique em **Minhas chaves PIX**; e então clique em **Cadastre sua chave**.
+3. Selecione um tipo de conta: Conta Corrente ou Conta Poupança.
+4. Será possível cadastrar como chave PIX:
 * CPF;
 * Número de celular;
 * E-mail;
 * Aleatória (sequência de letras e números gerados automaticamente para quem não quer informar dados pessoais em um recebimento). 
 **Exemplo:** asj4-129g-asj4-129f.
-6. Selecione a opção desejada e informe os dados.
-7. Após isso, clique em **finalizar cadastro**.
+5. Selecione a opção desejada e informe os dados.
+6. Após isso, clique em **finalizar cadastro**.
 
 
 Pronto, agora será possível utilizar sua chave PIX para receber recursos diretamente em sua conta a qualquer momento.

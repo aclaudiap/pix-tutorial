@@ -49,5 +49,3 @@ Para configurar a chave Pix no aplicatvo do banco AC Bank, realize o seguinte pr
 
 
 Pronto, agora será possível utilizar sua chave PIX para receber recursos diretamente em sua conta a qualquer momento.
-
-Para mais detalhes, entre em contato com a nossa equipe de suporte.

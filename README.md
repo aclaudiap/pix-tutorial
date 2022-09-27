@@ -16,7 +16,7 @@ Além de aumentar a velocidade em que pagamentos ou transferências são feitos 
 
 # Configurando a chave PIX
 
-Para configurar a chave Pix no aplicatvo do banco Itaú, realize o seguinte procedimento:
+Para configurar a chave Pix no aplicatvo do banco ACBank, realize o seguinte procedimento:
 
 1. Clique em **Minha conta**;
 2. Em seguida, clique em **Minhas chaves Pix**;

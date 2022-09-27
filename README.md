@@ -36,7 +36,7 @@ Para configurar a chave PIX no aplicatvo do banco AC Bank, realize o seguinte pr
 
 1. Clique em **Minha conta**;
 2. Em seguida, clique em **Minhas chaves PIX**;
-3. Será apresentada uma tela , clique em **Cadastre sua chave**.
+3. Será apresentada uma tela, clique em **Cadastre sua chave**.
 4. Selecione um tipo de conta: Conta Corrente ou Conta Poupança.
 5. Será possível cadastrar como chave PIX:
 * CPF;

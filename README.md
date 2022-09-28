@@ -34,7 +34,7 @@ Ou seja, o Pix vincula uma dessas chaves aos dados da sua conta, e a partir dela
 
 ## Vantagens de utilizar o Pix
 
-O **PIX** é prático, rápido e seguro. Confira abaixo uma tabela com as diferenças entre o PIX e outras formas de envio de recursos.
+O **Pix** é prático, rápido e seguro. Confira abaixo uma tabela com as diferenças entre o Pix e outras formas de envio de recursos.
 
 | **VANTAGENS** :+1: | **PIX** | **DÉBITO** | **BOLETO** | **TED** | **DOC** |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

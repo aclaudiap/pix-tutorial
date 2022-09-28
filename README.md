@@ -1,17 +1,17 @@
 # Central de ajuda AC Bank
 
 Neste artigo, você encontrará informações sobre:
-* [O que é o PIX?](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#o-que-%C3%A9-o-pix);
-* [O que é uma chave PIX?](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#o-que-%C3%A9-uma-chave-pix);
-* [Vantagens de utilizar o PIX](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#vantagens-de-utilizar-o-pix); e
-* [Como configurar a chave PIX](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#como-configurar-a-chave-pix).
+* [O que é o Pix?](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#o-que-%C3%A9-o-pix);
+* [O que é uma chave Pix?](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#o-que-%C3%A9-uma-chave-pix);
+* [Vantagens de utilizar o Pix](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#vantagens-de-utilizar-o-pix); e
+* [Como configurar a chave Pix](https://github.com/aclaudiap/pix-tutorial/edit/main/README.md#como-configurar-a-chave-pix).
 
 
-# O que é o PIX?
+# O que é o Pix?
 
-O **PIX** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas (Corrente ou Poupança)em poucos segundos, a qualquer hora ou dia.  
+O **Pix** é o pagamento instantâneo brasileiro, criado pelo Banco Central (BC) em que os recursos são transferidos entre contas (Corrente ou Poupança)em poucos segundos, a qualquer hora ou dia.  
 
-Além de aumentar a velocidade em que pagamentos ou transferências são feitos e recebidos, o PIX tem o potencial de:
+Além de aumentar a velocidade em que pagamentos ou transferências são feitos e recebidos, o Pix tem o potencial de:
 
 * Alavancar a competitividade e a eficiência do mercado;
 * Baixar o custo, aumentar a segurança e aprimorar a experiência dos clientes;
@@ -21,7 +21,7 @@ Além de aumentar a velocidade em que pagamentos ou transferências são feitos 
 
 **Fonte:** [Banco Central do Brasil.](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 
-## O que é uma chave PIX?
+## O que é uma chave Pix?
 
 A chave Pix é uma forma de identificar a sua conta, e atualmente existem 4 tipos de chaves:
 * E-mail;
@@ -32,7 +32,7 @@ A chave Pix é uma forma de identificar a sua conta, e atualmente existem 4 tipo
 Ou seja, o Pix vincula uma dessas chaves aos dados da sua conta, e a partir delas, é possível direcionar recursos financeiros para um banco, uma agência e uma conta, sem precisar digitar muitas informações.
 
 
-## Vantagens de utilizar o PIX
+## Vantagens de utilizar o Pix
 
 O **PIX** é prático, rápido e seguro. Confira abaixo uma tabela com as diferenças entre o PIX e outras formas de envio de recursos.
 
@@ -42,13 +42,13 @@ O **PIX** é prático, rápido e seguro. Confira abaixo uma tabela com as difere
 | **Disponibilidade**  | Qualquer dia e horário |  Qualquer dia e horário | Dias úteis | Dias úteis. Entre 6h e 17h. | Dias úteis. Entre 6h e 17h. |
 
 
-# Como configurar a chave PIX
+# Como configurar a chave Pix
 
-Para configurar a chave PIX no aplicatvo do banco AC Bank, realize o seguinte procedimento:
+Para configurar a chave Pix no aplicatvo do banco AC Bank, realize o seguinte procedimento:
 
 1. Acesse o aplicativo com seus dados bancarios; 
 2. Clique em **Minha conta**;
-3. Em seguida, clique em **Minhas chaves PIX**; e então clique em **Cadastre sua chave**.
+3. Em seguida, clique em **Minhas chaves Pix**; e então clique em **Cadastre sua chave**.
 4. Selecione um tipo de conta: Conta Corrente ou Conta Poupança.
 5. Selecione uma opção de chave (CPF, Número de celular, E-mail ou Chave aleatória) para ser a identificação do seu Pix;
 > :information_source: A chave aleatória será uma sequência de letras e números gerados automaticamente para quem não deseja informar dados pessoais em um recebimento. 
@@ -57,4 +57,4 @@ Para configurar a chave PIX no aplicatvo do banco AC Bank, realize o seguinte pr
 6. Após isso, clique em **finalizar cadastro**.
 
 
-Pronto, agora será possível utilizar sua chave PIX para receber recursos diretamente em sua conta a qualquer momento.
+Pronto, agora será possível utilizar sua chave Pix para receber recursos diretamente em sua conta a qualquer momento.
